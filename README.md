@@ -28,4 +28,4 @@ My name is Leonardo, I am a graduated Engineer looking to know a little more abo
 
 ## :speech_balloon: ... but keep talking too!
 
-Ask me about: Movies, TV series, games, music, politics, football, basketball or whatever. [All we need to do is make sure we keep talking!](https://www.youtube.com/watch?v=wbOTkDn49qI)
+Ask me about: Movies, TV series, games, music, politics, football, basketball or whatever. Because [all we need to do is make sure we keep talking!](https://www.youtube.com/watch?v=wbOTkDn49qI)
