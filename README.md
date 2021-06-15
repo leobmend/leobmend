@@ -4,6 +4,10 @@
 
 # :man_technologist: Leonardo Barros Mendonça 
 
+<a href="https://icons8.com/illustrations/illustration/marginalia-financial-report">
+	<img width=320 align="right" src="https://github.com/leobmend/leobmend/blob/main/imgs/analytics.png">
+</a>
+
 My name is Leonardo, I am a graduated Engineer looking to know a little more about programming and how it can change the world. I currently live in Brasília, Brazil.
 
 ## :books: All we need to do is keep learning...
