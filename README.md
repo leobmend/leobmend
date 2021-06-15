@@ -2,11 +2,11 @@
 
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardobmendonca/) [<img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white" />](mailto:carolinadiasw@gmail.com)
 
-# :man_technologist: Leonardo Barros Mendonça 
-
 <a href="https://icons8.com/illustrations/illustration/marginalia-financial-report">
 	<img width=450 align="right" src="https://github.com/leobmend/leobmend/blob/main/imgs/analytics.png">
 </a>
+
+# :man_technologist: Leonardo Barros Mendonça 
 
 My name is Leonardo, I am a graduated Engineer looking to know a little more about programming and how it can change the world. I currently live in Brasília, Brazil.
 
