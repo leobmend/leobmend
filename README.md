@@ -1,6 +1,8 @@
-## Hi there, welcome to my profile! 👋
+## Hi there, welcome to my profile! 👋 <img align='right' src="https://komarev.com/ghpvc/?username=leobmend&style=flat-square"  />
 
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardobmendonca/) [<img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white" />](mailto:leo.bmendonca@gmail.com)
+
+
 
 <a href="https://icons8.com/illustrations/illustration/marginalia-financial-report">
 	<img width=430 align="right" src="https://github.com/leobmend/leobmend/blob/main/imgs/analytics.png">
