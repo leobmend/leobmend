@@ -4,9 +4,7 @@
 
 
 
-<a href="https://icons8.com/illustrations/illustration/marginalia-financial-report">
-	<img width=430 align="right" src="https://github.com/leobmend/leobmend/blob/main/imgs/analytics.png">
-</a>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 # :man_technologist: Leonardo Barros Mendonça 
 
@@ -15,16 +13,13 @@ My name is Leonardo, I am a graduated Engineer looking to know a little more abo
 ## :books: All we need to do is keep learning...
 
  :dart: My studies are focused on:  
-* :bar_chart: Data Science
-* <img src="https://img.icons8.com/officexs/17/000000/database.png" width="24" height="18"> Data Bases
-*  :chart: Analytics
+* Web Development
 
 :zap: Some tecnologies that I'm working on:
+* HTML
+* JavaScript
+* CSS
 * :snake: Python
-  * :1234: NumPy
-  * :panda_face: Pandas
-  * :chart_with_upwards_trend: Matplotlib
-  * :ocean: Seaborn
 * :dolphin: MySQL
 * :elephant: PostgreSQL
 
