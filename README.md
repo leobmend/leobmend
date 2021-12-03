@@ -8,7 +8,7 @@
 
 # :man_technologist: Leonardo Barros Mendonça 
 
-My name is Leonardo, I am a graduated Engineer looking to know a little more about programming and how it can change the world. I currently live in Brasília, Brazil.
+My name is Leonardo, I am a graduated Engineer looking to know a little more about programming and how it can change the world. I currently live in Anápolis, Brazil.
 
 ## :books: All we need to do is keep learning...
 
