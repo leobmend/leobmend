@@ -19,6 +19,8 @@ My name is Leonardo, I am a graduated Engineer looking to know a little more abo
 
 * HTML
 * JavaScript
+* Node.js
+* Jest
 * React
 * Redux
 * CSS / Tailwind
