@@ -17,16 +17,40 @@ My name is Leonardo, I am a graduated Engineer looking to know a little more abo
 
 :zap: Some tecnologies that I'm working on:
 
-* HTML
-* JavaScript
-* Node.js
-* Jest
-* React
-* Redux
-* CSS / Tailwind
-* SQL / MySQL / PostgreSQL
+<details open>
+<summary>General</summary>
+
+* Heroku
 * Docker
+* JavaScript
+* TypeScript
 * Python
+
+</details>
+
+<details open>
+<summary>Back-end</summary>
+
+* Node.js
+* Express
+* Sequelize
+* Swagger
+* SQL / MySQL / PostgreSQL
+* Mocha / Chai / Sinon
+* Jest
+
+</details>
+
+<details>
+<summary>Front-end</summary>
+
+* HTML / CSS
+* React
+* Redux Toolkit
+* React Testing Library
+* Tailwind
+
+</details>
 
 :wrench: You can check my progress on my [portfolio](https://leobmend.github.io)!
 
