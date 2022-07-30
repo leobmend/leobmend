@@ -10,12 +10,12 @@
 
 My name is Leonardo, I am a graduated Engineer looking to know a little more about programming and how it can change the world. I currently live in Brasília, Brazil.
 
-## :books: All we need to do is keep learning...
+### :books: All we need to do is keep learning...
 
  :dart: My studies are focused right now on:  
 * Web Development - Full Stack
 
-:zap: Some tecnologies that I'm working on:
+### :zap: Some tecnologies that I'm working on:
 
 <details open>
 <summary>General</summary>
@@ -52,7 +52,7 @@ My name is Leonardo, I am a graduated Engineer looking to know a little more abo
 
 </details>
 
-:wrench: You can check my progress on my [portfolio](https://leobmend.github.io)!
+### :wrench: You can check my progress on my [portfolio](https://leobmend.github.io)!
 
 ## :speech_balloon: ... but keep talking too!
 
